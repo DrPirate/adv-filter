@@ -111,5 +111,10 @@ python3 bot.py
 * /broadcast - to broadcast a message to all Ajax users
 ```
 
-<b>✮ 𝙳𝙴𝚅𝙴𝙻𝙾𝙿𝙴𝚁 ›› [𝐀𝐚𝐝𝐡𝐢](https://t.me/Aadhi011)</b>                                                                                                                                                                                     
-<b>✮ 𝙲𝙷𝙰𝙽𝙽𝙴𝙻 ›› [𝐌𝐖 𝐔𝐩𝐝𝐚𝐭𝐞𝐳](https://t.me/MWUpdatez)</b>
+##Creators                                                                                                                                                                                
+- Thanks To Dan For His Awesome Library
+- Thanks To Mahesh For His Awesome Media-Search-bot
+- Thanks To Trojanz for Their Awesome Unlimited Filter Bot And AutoFilterBoT
+- Thanks To Eva Mari Team A amazing combination of this repo
+- Thanks To Aadhi For Creating Extra featurs 
+- Thanks To All Everyone In This Journey
