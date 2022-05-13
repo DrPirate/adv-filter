@@ -1,8 +1,8 @@
 <p align="center">
-  <img src="assets/Pirates.png" alt="Ajax-Extra-FeaturesLogo">
+  <img src="assets/Pirates.png" alt="Mr.pirates-FeaturesLogo">
 </p>
 <h1 align="center">
-  <b>-Mr.Pirate-Futures</b>
+  <b>Mr.Pirate-Futures</b>
 </h1>
 
 <a href="https://youtube.com/channel/UCmCxXwmizdO6iDtb1a7U0gw">
