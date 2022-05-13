@@ -1,7 +1,7 @@
 {
-    "name": "ᗩᒍᗩ᙭",
+    "name": "Pirate",
     "description": "This Bot Will Help You To Store Files In Cloud Storage. You Can Add Files To The Bot By Forward the last file from a public channel to your bot and Press Yes Button.. If The Files Channl Is Private Make the bot admin on the channel and forward the last file to bot. Then Add the bot to you group and send the movie name The Bot Will Give the file in Bot PM..✮✮",
-    "logo": "https://telegra.ph/file/1b837a8df2670b0097aaf.jpg",
+    "logo": "https://telegra.ph/file/00513094fab3f8327d78f.jpg",
     "stack": "container",
     "keywords": [
       "telegram",
@@ -16,11 +16,11 @@
       "index",
       "inline"
     ],
-    "website": "https://github.com/Aadhi000/Ajax",
-    "repository": "https://github.com/Aadhi000/Ajax",
+    "website": "https://github.com/DrPirate/adv-filter",
+    "repository": "https://github.com/DrPirate/adv-filter",
     "env": {
         "BOT_TOKEN": {
-            "description": "Your bot token.",
+            "description": "Your bot token. From @BotFather",
             "required": true
         },
         "API_ID": {
@@ -32,8 +32,8 @@
             "required": true
         },
         "CHANNELS": {
-            "description": "Username or ID of channel or group. Separate multiple IDs by space.",
-            "required": false
+            "description": "Username or ID of channel or group. Separate multiple IDs by space. For adding your new files",
+            "required": true
         },
         "ADMINS": {
             "description": "Username or ID of Admin. Separate multiple Admins by space.",
@@ -86,8 +86,8 @@
             "required": false
         },
         "SUPPORT_CHAT": {
-            "description": "Updated Channel Username Without @ Not Chanel ID",
-            "value": "OpusTechz",
+            "description": "Don't Change as you can",
+            "value": "AdBotUpdate",
             "required": false
         },
         "IMDB": {
