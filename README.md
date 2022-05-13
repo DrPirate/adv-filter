@@ -8,7 +8,6 @@
 <a href="https://youtube.com/channel/UCmCxXwmizdO6iDtb1a7U0gw">
   <img src="https://img.shields.io/badge/𝚂𝚄𝙱𝚂𝙲𝚁𝙸𝙱𝙴-black?logo=youtube" width="150">
 
-
 ## Features
 
 - [x] Auto Filter
