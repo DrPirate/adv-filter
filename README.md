@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/Pirates.png" alt="Mr.pirates-FeaturesLogo">
+  <img src="assets/pirates.png" alt="Mr.pirates-FeaturesLogo">
 </p>
 <h1 align="center">
   <b>Mr.Pirate-Futures</b>
